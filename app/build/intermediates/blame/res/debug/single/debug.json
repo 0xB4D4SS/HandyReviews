@@ -4,12 +4,8 @@
         "source": "C:\\Users\\Invincible\\Desktop\\kursa4\\kursa4ik\\HandyReviews\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Invincible\\Desktop\\kursa4\\kursa4ik\\HandyReviews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Invincible\\Desktop\\kursa4\\kursa4ik\\HandyReviews\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Invincible\\Desktop\\kursa4\\kursa4ik\\HandyReviews\\app\\build\\intermediates\\res\\merged\\debug\\drawable_puppy.png.flat",
-        "source": "C:\\Users\\Invincible\\Desktop\\kursa4\\kursa4ik\\HandyReviews\\app\\src\\main\\res\\drawable\\puppy.png"
+        "merged": "C:\\Users\\Invincible\\Desktop\\kursa4\\kursa4ik\\HandyReviews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Invincible\\Desktop\\kursa4\\kursa4ik\\HandyReviews\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
     },
     {
         "merged": "C:\\Users\\Invincible\\Desktop\\kursa4\\kursa4ik\\HandyReviews\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",

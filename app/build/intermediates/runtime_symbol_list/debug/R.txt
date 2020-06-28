@@ -705,9 +705,8 @@ int drawable notification_template_icon_bg 0x7f060069
 int drawable notification_template_icon_low_bg 0x7f06006a
 int drawable notification_tile_bg 0x7f06006b
 int drawable notify_panel_notification_icon_bg 0x7f06006c
-int drawable puppy 0x7f06006d
-int drawable tooltip_frame_dark 0x7f06006e
-int drawable tooltip_frame_light 0x7f06006f
+int drawable tooltip_frame_dark 0x7f06006d
+int drawable tooltip_frame_light 0x7f06006e
 int id ALT 0x7f070000
 int id CTRL 0x7f070001
 int id FUNCTION 0x7f070002
@@ -986,6 +985,7 @@ int layout zxing_barcode_scanner 0x7f0a0031
 int layout zxing_capture 0x7f0a0032
 int mipmap ic_launcher 0x7f0b0000
 int mipmap ic_launcher_round 0x7f0b0001
+int mipmap icon 0x7f0b0002
 int raw zxing_beep 0x7f0c0000
 int string abc_action_bar_home_description 0x7f0d0000
 int string abc_action_bar_up_description 0x7f0d0001

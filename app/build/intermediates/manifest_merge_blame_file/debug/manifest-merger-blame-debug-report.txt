@@ -55,12 +55,12 @@
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 31-->[androidx.core:core:1.1.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\bcfc0b80df78591183083cc148e1cf2c\core-1.1.0\AndroidManifest.xml:24:18-86
 32        android:debuggable="true"
-33        android:icon="@mipmap/ic_launcher"
-33-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\HandyReviews\app\src\main\AndroidManifest.xml:12:9-43
+33        android:icon="@mipmap/icon"
+33-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\HandyReviews\app\src\main\AndroidManifest.xml:12:9-36
 34        android:label="@string/app_name"
 34-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\HandyReviews\app\src\main\AndroidManifest.xml:13:9-41
-35        android:roundIcon="@mipmap/ic_launcher_round"
-35-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\HandyReviews\app\src\main\AndroidManifest.xml:14:9-54
+35        android:roundIcon="@mipmap/icon"
+35-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\HandyReviews\app\src\main\AndroidManifest.xml:14:9-41
 36        android:supportsRtl="true"
 36-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\HandyReviews\app\src\main\AndroidManifest.xml:15:9-35
 37        android:theme="@style/AppTheme" >
