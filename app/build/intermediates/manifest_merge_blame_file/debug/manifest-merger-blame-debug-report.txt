@@ -1,0 +1,102 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.oxb4d4ss.kursa4ik"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:5:5-65
+11-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:5:22-62
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:6:22-64
+13
+14    <uses-feature android:name="android.hardware.camera" />
+14-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:7:5-60
+14-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:7:19-57
+15    <uses-feature android:name="android.hardware.camera.autofocus" />
+15-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:8:5-70
+15-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:8:19-67
+16    <uses-feature
+16-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:27:5-29:36
+17        android:name="android.hardware.camera.front"
+17-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:28:9-53
+18        android:required="false" />
+18-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:29:9-33
+19    <uses-feature
+19-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:35:5-37:36
+20        android:name="android.hardware.camera.flash"
+20-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:36:9-53
+21        android:required="false" />
+21-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:37:9-33
+22    <uses-feature
+22-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:38:5-40:36
+23        android:name="android.hardware.screen.landscape"
+23-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:39:9-57
+24        android:required="false" />
+24-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:40:9-33
+25    <uses-feature
+25-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:41:5-43:36
+26        android:name="android.hardware.wifi"
+26-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:42:9-45
+27        android:required="false" />
+27-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:43:9-33
+28
+29    <application
+29-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:10:5-29:19
+30        android:allowBackup="true"
+30-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:11:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.1.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\bcfc0b80df78591183083cc148e1cf2c\core-1.1.0\AndroidManifest.xml:24:18-86
+32        android:debuggable="true"
+33        android:icon="@mipmap/ic_launcher"
+33-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:12:9-43
+34        android:label="@string/app_name"
+34-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:13:9-41
+35        android:roundIcon="@mipmap/ic_launcher_round"
+35-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:14:9-54
+36        android:supportsRtl="true"
+36-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:15:9-35
+37        android:theme="@style/AppTheme" >
+37-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:16:9-40
+38        <activity android:name="com.oxb4d4ss.kursa4ik.MainActivity" >
+38-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:18:9-24:20
+38-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:18:19-47
+39            <intent-filter>
+39-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:19:13-23:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:20:17-69
+40-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:20:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:22:17-77
+42-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:22:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity android:name="com.oxb4d4ss.kursa4ik.CaptureA" >
+45-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:25:9-27:20
+45-->C:\Users\Invincible\Desktop\kursa4\kursa4ik\app\src\main\AndroidManifest.xml:25:19-43
+46        </activity>
+47        <activity
+47-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:46:9-52:63
+48            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+48-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:47:13-74
+49            android:clearTaskOnLaunch="true"
+49-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:48:13-45
+50            android:screenOrientation="sensorLandscape"
+50-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:49:13-56
+51            android:stateNotNeeded="true"
+51-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:50:13-42
+52            android:theme="@style/zxing_CaptureTheme"
+52-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:51:13-54
+53            android:windowSoftInputMode="stateAlwaysHidden" />
+53-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Invincible\.gradle\caches\transforms-2\files-2.1\c97b3cee7538a1afb2d4f9c4221e3a18\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:52:13-60
+54    </application>
+55
+56</manifest>
