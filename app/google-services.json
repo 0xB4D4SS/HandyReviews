@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "768776111584",
+    "firebase_url": "https://kursa4ik-30ea5.firebaseio.com",
+    "project_id": "kursa4ik-30ea5",
+    "storage_bucket": "kursa4ik-30ea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768776111584:android:e2c380105598b032e69785",
+        "android_client_info": {
+          "package_name": "com.oxb4d4ss.kursa4ik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768776111584-ohpi4hetcgqsj387vqc3qiltsr6m6ql0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFxhteNhhzLD54UWntbEIc3AsISsOaUC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768776111584-ohpi4hetcgqsj387vqc3qiltsr6m6ql0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
